@@ -1,1 +1,19 @@
 # webdev_lab1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Internet Technologies and Web Design</title>
+</head>
+<body>
+<p>&amp; Hello world. This is my first website!</p>
+<p>Instructions: rewrite this page by adding a few sentences about yourself. Follow the
+instructions in README.md to turn it in.</p>
+<p>My name is Nancy Baten.</p>
+<p>I graduated from The Noble Academy.</p>
+<p>I am looking foward on getting a degree in cyber security.</p>
+<p>However, I'm still unsure on what carrer I want to pursue.</p>
+  
+</body>
+</html>
+
